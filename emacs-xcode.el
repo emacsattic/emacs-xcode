@@ -117,4 +117,4 @@
                 (c++-mode)))))))
 (add-hook 'find-file-hook 'bh-choose-header-mode)
 
-(provide 'xcode)
+(provide 'emacs-xcode)
